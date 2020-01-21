@@ -1,0 +1,21 @@
+{
+    "FeatureEventName":"GDG Ado Ekiti Chrome Dev Summit Extended",
+    "EventImage":"cds.jpeg",
+    "EventDate":{
+        "Date":"21",
+        "Month":"12",
+        "Year":"2019"
+    },
+    "EventTime":{
+        "StartTime":"09:00 AM",
+        "EndTime":"04:00 PM"
+    },
+    "EventVenue":"Arowolo Gardens",
+    "EventVenueMapLink":"https://www.google.com/maps/search/?api=1&query=7.627231%2C5.220115",
+    "EventWebsite":"https://www.meetup.com/gdgadoekiti/events/266207158/",
+    "EventDescription":"Chrome Dev Summit is a single-track event so everyone gets the opportunity to attend every session, fueling meaningful discussions among all attendees.",
+    "MeetupLink":"https://www.meetup.com/gdgadoekiti/events/266207158",
+    "RegistrationLink":"https://www.meetup.com/gdgadoekiti/events/266207158/",
+    "FBEventPageURL":""
+}
+

@@ -1,0 +1,47 @@
+[
+    {
+        "name":"David Oluwabusayo",
+        "designation":"Lead Organizer",
+        "twitter":"https://twitter.com/david_stont",
+        "linkedin":"https://www.linkedin.com/in/davidstont",
+        "github":"https://github.com/stont",
+        "profileImage":"dv.jpeg",
+        "website":"https://www.meetup.com/gdgadoekiti/members/227005486/profile/?returnPage=1"
+    },
+    {
+        "name":"Favour Chukwuedo",
+        "designation":"Co-Organizer",
+        "twitter":"https://twitter.com/SenseiFavour",
+        "linkedin":"https://www.linkedin.com/in/favour-chukwuedo/",
+        "github":"https://github.com/favourch",
+        "profileImage":"fv.jpeg",
+        "website":"https://www.meetup.com/gdgadoekiti/members/227791148/profile/?returnPage=1"
+    },
+    {
+        "name":"Adesoji Susan Adeola",
+        "designation":"WTM Lead & Co-Organizer",
+        "twitter":"https://twitter.com/AdesojiSusan",
+        "linkedin":"https://www.linkedin.com/in/adesojisusan",
+        "github":"https://github.com/adesojisusan",
+        "profileImage":"su.jpeg",
+        "website":"https://www.meetup.com/gdgadoekiti/members/241556317/profile/?returnPage=1"
+    },
+    {
+        "name":"Moses Afeniforo",
+        "designation":"Executive",
+        "twitter":"https://twitter.com/undisputedmoses",
+        "linkedin":"https://www.linkedin.com/in/afeniforo-moses-04611218a",
+        "github":"",
+        "profileImage":"mo.jpeg",
+        "website":""
+    },
+    {
+        "name":"Olorunfemi Ajibulu",
+        "designation":"Co-Organizer",
+        "twitter":"https://twitter.com/fzanyA",
+        "linkedin":"https://www.linkedin.com/in/fzany",
+        "github":"https://github.com/fzany",
+        "profileImage":"fm.jpeg",
+        "website":""
+    }
+]

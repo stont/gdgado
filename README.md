@@ -132,61 +132,6 @@ Awesome! Contributions of all kinds are greatly appreciated. To help smoothen th
 ## Contributors
 <b>Maintainer:</b> [Vrijraj Singh](https://github.com/vrijraj)
 
-### View Website Built with Projects
-
-| Community Name | Web App Link |
-| --- | --- |
-| GDG Jalandhar | [View Now](https://gdgjalandhar.com) |
-| GDG Kuala Lumpur | [View Now](https://www.gdgkl.dev/) |
-| GDG Fortaleza | [View Now](http://gdgfortaleza.com.br/) |
-| GDG Kozhikode | [View Now](https://gdgkozhikode.org/) |
-| GDG Delta | [View Now](https://gdgdelta.com/) |
-| GDG Tokyo | [View Now](https://tokyo.gdgjapan.org/) |
-| GDG Yangon | [View Now](https://gdgyangon.org/) |
-| GDG Gran Canaria | [View Now](https://gdggrancanaria.org/) |
-| GDG Santander | [View Now](https://gdgsantander.com/) |
-| GDG Ciudad del Este | [View Now](http://gdgcde.org/) |
-| GDG Ilorin | [View Now](https://gdg-ilorin-d9f0d.firebaseapp.com/) |
-| GDG Chetumal | [View Now](https://gdg-chetumal.firebaseapp.com/) |
-| GDG Porto | [View Now](https://gdgporto-aura.firebaseapp.com/) |
-| GDG Istanbul | [View Now](https://gdgist.firebaseapp.com/) |
-| GDG Port-of-Spain | [View Now](https://gdgpos.com/) |
-| GDG Jeddah | [View Now](https://www.gdgjed.com/home) |
-| GDG Sevilla | [View Now](https://www.gdgsevilla.com/) |
-| GDG Madeira | [View Now](https://gdgmadeira.xyz/) |
-| GDG Chandigarh | [View Now](https://gdg-chd.web.app/) |
-| GDG Rochester | [View Now](https://gdgrochester.com/) |
-| GDG Sri Lanka | [View Now](https://gdgsrilanka.org) |
-| GDG Lafia | [View Now](https://lafia.gdg.ng/) |
-| GDG Kinshasa | [View Now](https://gdg-kin.firebaseapp.com/) |
-| Dev Cluster Goa | [View Now](https://beta.devcluster.community/) |
-| GDG Cloud Calgary | [View Now](https://gdgyyc.com/) |
-| GDG Cloud SF | [View Now](https://cloudsf.withgdg.com/) |
-| GDG Nagpur | [View Now](https://gdgnagpur.com/) |
-| GDG Kolkata | [View Now](https://gdgkolkata.org/) |
-| GDG Ahmedabad | [View Now](http://gdgahmedabad.com/) |
-| GDG Fremont | [View Now](https://gdg-fremont.firebaseapp.com/) |
-| GDG Savannah | [View Now](https://gdgsavannah.com/) |
-| GDG San Salvador | [View Now](https://gdgsansalvador.dev/) |
-| GDG Indore | [View Now](https://gdgindore.in/) |
-| GDG Pescara | [View Now](https://gdgpescara.it/en/) |
-| GDG CDE | [View Now](http://gdgcde.org/) |
-| GDG Galicia | [View Now](https://gdggalicia.com/) |
-| GDG Campobasso| [View Now](https://gdgcampobasso.it/) |
-| GDG Galway | [View Now](https://gdg-galway.com/) |
-| GDG Nizhny Novgorod | [View Now](https://gdgnnsite-62ac7.firebaseapp.com/) |
-| GDG Madurai | [View Now](https://www.gdgmadurai.in/) |
-| GDG Bristol | [View Now](https://gdgbristol.org/) | 
-| GDG Ranchi | [View Now](https://www.gdgranchi.in/) |
-| GDG Chennai | [View Now](https://gdgchennai.in)|
-| GDG Kano | [View Now](http://kano.gdg.ng/)|
-| GDG Gandhinagar |[View Now](https://gdggandhinagar.org/) |
-| GDG Craiova | [View Now](https://gdgcraiova.dev/) |
-| GDG Houston | [View Now](https://gdghoustontx.org/) |
-| GDG Cloud Ahmedabad | [View Now](https://gdgahmedabad.cloud/) |
-| GDG Cloud Hanoi | [View Now](https://gdgcloudhanoi.com/) |
-| GDG Ulaanbaatar | [View Now](https://gdgub.org/) |
-
 
 Project is published under the [MIT license](/LICENSE.md).  
 Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
